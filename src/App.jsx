@@ -16,7 +16,7 @@ function App() {
     <div className="bg-[#fefeff] p-12 pb-0  dm-sans-font">
       {/* ----Header---- */}
       <div className="flex justify-between items-center pb-8">
-        <div className=" flex items-center gap-4 lg:gap-6   ">
+        <div className=" flex items-center gap-4 lg:gap-6 pl-3">
           <img
             src="/icons/menu.svg"
             width={20}
